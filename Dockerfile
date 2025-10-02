@@ -12,7 +12,7 @@ RUN chmod 0700 /home/princessbride/florins_castle/.secret-passage/.pit-of-dispai
 
 
 # Create the user and group
-RUN useradd -s /bin/sh princessbride
+RUN addgroup -S princessbride && adduser -S princessbride -G princessbride
 
 
 # Set the user for subsequent commands
