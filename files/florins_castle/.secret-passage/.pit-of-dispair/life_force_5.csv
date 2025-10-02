@@ -1,0 +1,1001 @@
+date,first_name,life_force
+2025-09-03,Inigo Montoya,48.04
+2025-04-14,Vizzini,43.76
+2025-02-03,Inigo Montoya,52.33
+2024-06-20,Inigo Montoya,60.14
+2025-09-16,Fezzik,88.91
+2025-05-15,Prince Humperdink,95.93
+2025-10-23,Valerie,10.31
+2025-07-16,Prince Humperdink,95.32
+2025-05-10,Miracle Max,1.89
+2024-08-23,Fezzik,56.16
+2024-04-10,Vizzini,40.05
+2024-09-23,Buttercup,84.88
+2025-05-24,Vizzini,89.61
+2025-12-17,Vizzini,99.72
+2024-12-30,Fezzik,42.02
+2025-01-21,Vizzini,63.21
+2024-12-28,Buttercup,79.29
+2024-05-26,Buttercup,50.36
+2025-04-02,Buttercup,7.49
+2024-12-26,Prince Humperdink,51.3
+2024-10-24,Prince Humperdink,10.87
+2025-03-15,Valerie,67.66
+2024-04-02,Count Rugen,33.8
+2024-01-15,Inigo Montoya,70.44
+2024-04-23,Buttercup,3.28
+2024-02-29,Valerie,90.77
+2024-03-30,Inigo Montoya,50.18
+2024-07-29,Miracle Max,62.32
+2025-06-28,Miracle Max,41.07
+2024-09-04,Count Rugen,85.71
+2025-10-10,Buttercup,30.05
+2024-03-17,Vizzini,7.95
+2025-01-21,Vizzini,42.46
+2025-11-26,Vizzini,96.16
+2025-12-03,Fezzik,65.87
+2025-08-18,Valerie,44.06
+2024-02-18,Fezzik,67.27
+2024-08-18,Buttercup,67.74
+2025-09-11,Count Rugen,74.93
+2024-08-14,Fezzik,52.75
+2024-02-09,Count Rugen,6.02
+2025-02-03,Buttercup,80.06
+2024-05-29,Vizzini,80.33
+2024-09-23,Count Rugen,4.33
+2025-08-10,Fezzik,15.89
+2024-03-30,Fezzik,58.4
+2024-08-11,Buttercup,29.46
+2025-05-07,Fezzik,49.09
+2024-03-14,Prince Humperdink,61.54
+2024-10-15,Inigo Montoya,19.17
+2025-10-12,Fezzik,37.7
+2024-07-28,Count Rugen,59.98
+2024-03-02,Vizzini,78.6
+2025-04-12,Fezzik,99.68
+2025-02-15,Prince Humperdink,2.61
+2024-11-24,Vizzini,66.05
+2024-08-02,Buttercup,61.07
+2025-09-15,Count Rugen,13.82
+2024-07-15,Buttercup,50.14
+2024-11-07,Prince Humperdink,70.26
+2024-03-15,Count Rugen,18.81
+2024-02-27,Vizzini,44.06
+2024-10-26,Miracle Max,30.45
+2024-04-04,Miracle Max,67.55
+2024-08-11,Miracle Max,65.57
+2025-08-10,Valerie,30.58
+2025-01-17,Miracle Max,37.76
+2025-07-29,Count Rugen,39.29
+2024-01-04,Miracle Max,95.6
+2024-03-22,Vizzini,23.81
+2024-02-21,Buttercup,91.63
+2025-04-25,Miracle Max,53.4
+2025-03-24,Vizzini,37.62
+2025-01-10,Valerie,59.42
+2024-11-02,Count Rugen,81.78
+2024-04-04,Fezzik,53.08
+2025-05-24,Fezzik,10.31
+2024-07-19,Inigo Montoya,10.31
+2024-10-20,Vizzini,77.41
+2025-02-06,Fezzik,73.74
+2025-06-12,Count Rugen,80.3
+2024-02-11,Count Rugen,98.15
+2025-04-14,Miracle Max,39.84
+2024-03-17,Miracle Max,4.04
+2025-12-15,Valerie,40.84
+2024-05-23,Buttercup,46.8
+2024-03-12,Buttercup,32.37
+2024-01-31,Buttercup,62.84
+2025-11-12,Vizzini,36.06
+2024-05-10,Miracle Max,62.73
+2024-10-04,Vizzini,89.81
+2025-07-27,Count Rugen,65.58
+2025-09-16,Fezzik,86.75
+2024-09-04,Count Rugen,24.25
+2025-10-22,Vizzini,44.99
+2025-08-15,Prince Humperdink,5.34
+2024-12-09,Inigo Montoya,5.73
+2025-12-16,Inigo Montoya,15.97
+2025-12-22,Buttercup,78.68
+2025-03-03,Inigo Montoya,21.16
+2024-04-11,Count Rugen,11.92
+2025-12-19,Vizzini,77.37
+2025-01-02,Valerie,59.12
+2024-09-13,Valerie,39.84
+2024-08-23,Prince Humperdink,55.62
+2024-04-21,Fezzik,89.81
+2025-11-09,Vizzini,11.13
+2025-06-19,Vizzini,39.71
+2025-01-09,Vizzini,97.89
+2024-12-03,Vizzini,76.48
+2024-02-22,Vizzini,42.76
+2025-05-22,Inigo Montoya,54.78
+2025-12-05,Buttercup,59.06
+2025-06-25,Miracle Max,86.68
+2025-12-04,Buttercup,23.67
+2024-03-17,Miracle Max,46.83
+2024-05-31,Miracle Max,37.92
+2024-01-14,Vizzini,27.93
+2024-11-11,Count Rugen,60.5
+2024-10-23,Buttercup,94.43
+2025-11-20,Count Rugen,50.96
+2024-04-26,Valerie,98.9
+2024-09-21,Prince Humperdink,31.81
+2025-03-31,Inigo Montoya,58.54
+2024-02-19,Count Rugen,35.25
+2025-11-08,Vizzini,46.01
+2024-11-24,Inigo Montoya,46.44
+2025-09-03,Miracle Max,77.17
+2025-06-06,Valerie,87.6
+2024-11-23,Count Rugen,50.28
+2025-02-19,Count Rugen,16.65
+2025-09-05,Buttercup,66.86
+2025-06-30,Vizzini,48.81
+2024-11-07,Miracle Max,48.09
+2024-03-02,Count Rugen,76.02
+2024-11-29,Count Rugen,80.43
+2025-12-22,Count Rugen,68.57
+2025-03-11,Vizzini,3.78
+2024-05-18,Buttercup,6.63
+2025-05-14,Inigo Montoya,42.57
+2024-09-09,Valerie,58.62
+2025-05-28,Count Rugen,88.85
+2024-10-06,Valerie,31.16
+2025-10-26,Fezzik,36.97
+2024-08-03,Vizzini,88.92
+2025-12-03,Buttercup,1.09
+2025-11-06,Count Rugen,83.57
+2024-09-10,Fezzik,74.22
+2024-05-08,Prince Humperdink,31.79
+2024-07-11,Count Rugen,77.39
+2024-04-01,Count Rugen,76.31
+2025-09-02,Valerie,91.39
+2025-04-17,Count Rugen,81.95
+2024-06-30,Fezzik,47.8
+2025-07-19,Prince Humperdink,84.32
+2024-02-04,Inigo Montoya,55.91
+2024-02-28,Miracle Max,2.5
+2024-07-18,Miracle Max,97.06
+2024-04-09,Count Rugen,75.39
+2025-06-03,Valerie,16.1
+2024-12-28,Inigo Montoya,60.31
+2025-04-28,Prince Humperdink,36.73
+2025-12-28,Valerie,11.55
+2025-03-07,Buttercup,97.59
+2024-08-10,Buttercup,23.78
+2024-11-20,Count Rugen,19.28
+2024-06-21,Count Rugen,4.39
+2024-10-29,Vizzini,89.16
+2025-01-03,Prince Humperdink,43.07
+2025-09-16,Fezzik,27.14
+2024-06-03,Miracle Max,44.29
+2025-08-08,Inigo Montoya,31.89
+2024-05-26,Valerie,64.15
+2024-08-14,Miracle Max,21.06
+2024-06-01,Vizzini,46.33
+2025-04-24,Miracle Max,38.66
+2024-02-13,Inigo Montoya,4.42
+2024-10-03,Vizzini,57.34
+2024-06-06,Miracle Max,5.61
+2024-07-31,Inigo Montoya,5.45
+2025-03-11,Inigo Montoya,32.19
+2025-09-01,Prince Humperdink,32.79
+2025-12-15,Fezzik,7.06
+2024-03-06,Inigo Montoya,43.2
+2025-04-26,Inigo Montoya,76.97
+2025-03-27,Prince Humperdink,55.23
+2025-12-30,Prince Humperdink,29.76
+2024-12-05,Inigo Montoya,8.49
+2024-12-11,Buttercup,94.3
+2025-04-09,Inigo Montoya,78.14
+2025-02-04,Vizzini,32.68
+2024-09-27,Buttercup,98.6
+2024-02-23,Valerie,47.65
+2024-03-07,Count Rugen,9.01
+2025-10-15,Inigo Montoya,75.71
+2024-06-09,Vizzini,25.98
+2024-12-07,Inigo Montoya,99.78
+2025-06-10,Valerie,51.82
+2024-07-20,Count Rugen,90.66
+2025-01-26,Miracle Max,96.99
+2024-01-11,Buttercup,56.17
+2024-06-07,Prince Humperdink,64.47
+2025-05-29,Inigo Montoya,84.66
+2025-06-06,Valerie,20.78
+2025-07-10,Valerie,66.01
+2024-11-07,Fezzik,22.93
+2025-09-14,Fezzik,19.82
+2025-01-19,Count Rugen,82.63
+2025-09-12,Valerie,51.61
+2024-11-05,Count Rugen,63.37
+2025-03-27,Count Rugen,74.59
+2025-08-05,Count Rugen,54.97
+2025-01-26,Inigo Montoya,52.09
+2024-05-06,Vizzini,64.37
+2025-08-26,Buttercup,70.99
+2025-06-13,Vizzini,37.42
+2025-04-25,Miracle Max,69.95
+2025-04-13,Inigo Montoya,20.46
+2024-12-18,Valerie,12.3
+2024-08-20,Fezzik,4.68
+2024-06-20,Count Rugen,84.42
+2025-06-28,Valerie,27.2
+2025-06-19,Miracle Max,48.5
+2025-08-01,Inigo Montoya,34.78
+2025-12-12,Valerie,16.34
+2024-02-15,Count Rugen,10.35
+2024-12-25,Vizzini,25.22
+2024-01-22,Vizzini,1.83
+2024-07-12,Inigo Montoya,75.51
+2024-06-26,Prince Humperdink,39.29
+2024-11-28,Miracle Max,72.78
+2025-04-13,Buttercup,15.52
+2025-01-08,Vizzini,8.5
+2025-12-18,Prince Humperdink,41.51
+2024-12-02,Miracle Max,12.26
+2025-06-28,Miracle Max,47.79
+2024-09-13,Inigo Montoya,35.24
+2024-02-06,Fezzik,73.74
+2025-11-08,Miracle Max,92.94
+2024-04-24,Buttercup,52.39
+2025-10-21,Buttercup,28.57
+2024-03-09,Prince Humperdink,17.65
+2025-10-01,Buttercup,57.78
+2025-06-05,Fezzik,24.27
+2025-11-30,Buttercup,98.31
+2024-04-10,Miracle Max,55.63
+2025-10-14,Vizzini,20.71
+2025-10-27,Vizzini,10.28
+2024-10-24,Buttercup,18.43
+2025-01-31,Vizzini,93.65
+2024-08-29,Inigo Montoya,63.92
+2025-01-15,Buttercup,86.63
+2025-06-25,Fezzik,57.27
+2025-09-24,Fezzik,70.24
+2025-04-07,Prince Humperdink,32.03
+2025-09-21,Vizzini,42.74
+2024-03-03,Valerie,80.51
+2024-10-11,Vizzini,36.45
+2025-03-16,Vizzini,2.47
+2024-01-23,Count Rugen,44.12
+2025-12-13,Count Rugen,26.13
+2025-11-26,Valerie,58.06
+2024-02-10,Buttercup,89.79
+2025-08-24,Fezzik,70.06
+2024-06-12,Vizzini,9.5
+2024-04-12,Miracle Max,42.42
+2024-02-07,Fezzik,50.72
+2024-03-01,Valerie,47.86
+2025-07-28,Vizzini,86.26
+2024-03-08,Valerie,46.75
+2025-07-10,Vizzini,21.38
+2025-05-31,Inigo Montoya,11.97
+2025-01-20,Valerie,33.89
+2024-06-27,Miracle Max,94.95
+2024-01-12,Miracle Max,5.01
+2025-11-10,Vizzini,77.14
+2025-05-08,Fezzik,68.34
+2024-12-24,Miracle Max,54.64
+2024-03-19,Count Rugen,64.91
+2024-05-27,Vizzini,13.85
+2025-03-05,Vizzini,55.59
+2025-12-06,Miracle Max,81.42
+2025-10-31,Miracle Max,40.22
+2024-02-22,Inigo Montoya,91.22
+2024-06-01,Count Rugen,89.5
+2025-03-20,Miracle Max,86.53
+2025-01-25,Prince Humperdink,64.26
+2025-09-03,Buttercup,11.46
+2025-10-15,Miracle Max,47.16
+2024-10-16,Prince Humperdink,79.67
+2024-10-16,Valerie,5.99
+2024-12-25,Vizzini,11.15
+2025-10-11,Buttercup,85.51
+2025-08-28,Fezzik,11.01
+2024-05-18,Inigo Montoya,40.44
+2025-12-18,Miracle Max,81.84
+2024-04-22,Count Rugen,53.38
+2024-10-12,Inigo Montoya,73.84
+2024-09-25,Prince Humperdink,84.57
+2024-11-17,Prince Humperdink,64.91
+2024-03-27,Count Rugen,59.6
+2025-07-24,Inigo Montoya,70.7
+2024-01-02,Valerie,94.52
+2025-12-01,Vizzini,91.37
+2025-08-24,Vizzini,16.26
+2024-08-23,Prince Humperdink,91.68
+2025-03-11,Inigo Montoya,62.13
+2024-08-18,Miracle Max,41.57
+2025-09-25,Fezzik,19.52
+2025-05-06,Vizzini,20.88
+2025-11-27,Count Rugen,24.54
+2025-05-15,Vizzini,36.82
+2024-01-14,Count Rugen,45.88
+2024-10-31,Inigo Montoya,77.86
+2025-09-17,Vizzini,9.99
+2025-07-26,Vizzini,29.74
+2025-03-30,Prince Humperdink,56.88
+2025-01-12,Prince Humperdink,17.72
+2024-04-06,Miracle Max,34.79
+2025-12-25,Count Rugen,64.56
+2025-01-05,Count Rugen,25.21
+2025-11-14,Prince Humperdink,2.68
+2024-05-09,Vizzini,89.53
+2024-03-29,Fezzik,4.3
+2024-08-08,Fezzik,52.0
+2024-02-07,Count Rugen,66.36
+2024-01-30,Inigo Montoya,16.43
+2024-03-10,Miracle Max,71.54
+2024-11-14,Buttercup,66.89
+2024-10-04,Inigo Montoya,45.2
+2024-07-26,Valerie,92.81
+2024-02-29,Fezzik,60.26
+2025-02-28,Valerie,12.78
+2024-11-07,Fezzik,18.72
+2025-05-16,Prince Humperdink,48.43
+2025-12-04,Prince Humperdink,91.22
+2024-12-11,Buttercup,29.66
+2025-05-18,Valerie,91.39
+2024-01-21,Valerie,22.76
+2025-12-19,Buttercup,91.77
+2024-05-11,Vizzini,36.96
+2025-05-17,Buttercup,15.63
+2024-12-05,Prince Humperdink,32.5
+2024-08-14,Buttercup,57.85
+2025-06-22,Valerie,8.08
+2025-12-26,Prince Humperdink,71.57
+2024-10-13,Prince Humperdink,82.95
+2024-09-10,Count Rugen,95.06
+2025-09-26,Fezzik,55.27
+2024-09-24,Count Rugen,71.97
+2024-06-19,Buttercup,41.52
+2025-01-04,Valerie,24.14
+2025-06-17,Buttercup,95.39
+2025-07-28,Fezzik,16.42
+2024-01-03,Inigo Montoya,71.74
+2024-02-23,Buttercup,12.15
+2025-07-30,Vizzini,36.9
+2024-11-11,Vizzini,74.39
+2025-05-11,Valerie,19.18
+2025-02-24,Count Rugen,47.58
+2025-02-27,Buttercup,23.79
+2025-04-14,Miracle Max,77.65
+2025-01-25,Miracle Max,87.92
+2025-08-02,Count Rugen,46.84
+2024-03-31,Count Rugen,2.9
+2024-10-17,Vizzini,41.64
+2025-11-22,Buttercup,98.67
+2024-10-27,Inigo Montoya,73.6
+2025-02-15,Prince Humperdink,95.65
+2024-06-24,Vizzini,78.97
+2025-03-30,Count Rugen,91.34
+2024-07-15,Inigo Montoya,7.19
+2024-01-05,Valerie,83.59
+2025-09-05,Prince Humperdink,11.65
+2024-01-12,Inigo Montoya,97.25
+2025-01-20,Prince Humperdink,3.52
+2025-10-16,Inigo Montoya,72.43
+2025-01-25,Vizzini,13.69
+2024-12-07,Miracle Max,93.44
+2025-02-03,Buttercup,27.2
+2025-12-23,Miracle Max,55.55
+2024-03-19,Fezzik,15.07
+2024-09-28,Vizzini,88.27
+2025-05-19,Prince Humperdink,45.49
+2024-01-21,Miracle Max,53.41
+2025-07-31,Valerie,77.77
+2024-11-28,Vizzini,38.41
+2024-03-11,Fezzik,65.34
+2025-10-19,Vizzini,71.07
+2024-05-04,Prince Humperdink,57.06
+2024-03-03,Prince Humperdink,61.67
+2025-05-08,Valerie,93.31
+2024-09-07,Vizzini,43.22
+2024-06-23,Miracle Max,53.39
+2025-03-29,Inigo Montoya,90.72
+2024-04-03,Prince Humperdink,33.94
+2025-12-22,Buttercup,68.84
+2024-01-26,Vizzini,27.35
+2025-05-28,Count Rugen,34.41
+2024-08-29,Inigo Montoya,59.63
+2025-06-06,Miracle Max,49.57
+2024-12-18,Miracle Max,35.4
+2024-01-24,Fezzik,56.23
+2025-10-12,Miracle Max,51.78
+2024-01-21,Miracle Max,37.35
+2025-01-04,Valerie,83.64
+2025-08-13,Fezzik,89.77
+2025-12-30,Fezzik,39.94
+2025-02-03,Count Rugen,89.06
+2025-04-21,Valerie,18.4
+2024-10-27,Buttercup,27.2
+2025-03-09,Prince Humperdink,84.19
+2024-05-28,Buttercup,67.83
+2024-11-03,Buttercup,58.39
+2025-02-12,Count Rugen,89.53
+2025-07-15,Prince Humperdink,30.55
+2025-10-06,Miracle Max,87.51
+2025-08-06,Inigo Montoya,43.52
+2025-09-17,Vizzini,65.16
+2024-08-09,Valerie,4.86
+2025-06-07,Prince Humperdink,51.74
+2024-04-17,Buttercup,43.73
+2025-04-30,Prince Humperdink,25.71
+2024-03-28,Inigo Montoya,6.89
+2025-11-10,Valerie,18.4
+2025-06-10,Fezzik,96.76
+2025-09-04,Miracle Max,81.66
+2025-02-14,Inigo Montoya,72.95
+2024-12-05,Buttercup,44.33
+2025-05-20,Inigo Montoya,90.48
+2025-09-26,Inigo Montoya,52.64
+2024-11-10,Miracle Max,85.73
+2024-10-11,Valerie,62.47
+2024-01-11,Vizzini,56.92
+2025-12-29,Prince Humperdink,65.82
+2025-11-27,Count Rugen,51.6
+2024-05-17,Count Rugen,53.54
+2025-06-14,Vizzini,29.41
+2024-10-13,Valerie,46.49
+2025-06-11,Count Rugen,43.2
+2024-09-18,Fezzik,53.61
+2024-10-09,Inigo Montoya,72.81
+2024-02-10,Count Rugen,83.16
+2024-05-01,Count Rugen,37.26
+2024-09-22,Fezzik,97.08
+2024-05-02,Prince Humperdink,89.43
+2024-10-06,Prince Humperdink,74.31
+2024-08-28,Inigo Montoya,80.86
+2025-08-25,Vizzini,14.79
+2025-03-03,Valerie,16.04
+2025-12-23,Inigo Montoya,54.33
+2024-08-15,Inigo Montoya,96.77
+2024-10-08,Fezzik,6.86
+2025-01-30,Inigo Montoya,67.06
+2025-07-04,Inigo Montoya,32.88
+2025-05-19,Fezzik,89.19
+2024-07-05,Fezzik,40.52
+2024-01-16,Vizzini,98.7
+2025-06-10,Fezzik,62.81
+2024-06-12,Fezzik,9.14
+2025-08-06,Prince Humperdink,96.2
+2025-01-01,Vizzini,55.05
+2025-08-01,Fezzik,87.65
+2024-12-04,Valerie,84.36
+2025-09-16,Fezzik,95.89
+2024-05-08,Vizzini,79.64
+2024-07-27,Prince Humperdink,9.17
+2024-01-14,Fezzik,45.1
+2024-06-30,Vizzini,41.02
+2025-12-05,Count Rugen,33.03
+2025-09-16,Fezzik,49.92
+2025-10-07,Fezzik,1.49
+2025-08-01,Prince Humperdink,16.01
+2025-01-09,Vizzini,71.23
+2024-10-05,Fezzik,81.17
+2025-03-11,Fezzik,20.94
+2024-03-16,Prince Humperdink,14.92
+2024-07-13,Vizzini,92.94
+2024-01-24,Valerie,30.72
+2024-09-06,Valerie,68.05
+2024-06-24,Miracle Max,34.88
+2025-08-09,Count Rugen,64.93
+2025-09-02,Prince Humperdink,58.24
+2025-06-11,Miracle Max,7.61
+2025-07-25,Fezzik,31.67
+2024-07-09,Miracle Max,89.08
+2024-03-11,Valerie,10.36
+2024-01-22,Miracle Max,57.25
+2024-10-01,Buttercup,57.28
+2024-04-30,Count Rugen,31.6
+2025-07-28,Buttercup,87.61
+2024-10-29,Valerie,20.94
+2024-07-29,Fezzik,32.51
+2025-05-28,Prince Humperdink,12.15
+2025-11-22,Vizzini,26.5
+2025-11-24,Buttercup,42.55
+2024-06-01,Valerie,62.16
+2024-03-16,Prince Humperdink,69.43
+2024-11-17,Prince Humperdink,89.1
+2024-09-18,Inigo Montoya,34.5
+2024-07-28,Valerie,86.98
+2024-10-20,Prince Humperdink,7.15
+2024-01-25,Buttercup,97.66
+2025-06-08,Miracle Max,76.22
+2024-10-14,Prince Humperdink,91.88
+2024-04-12,Miracle Max,85.68
+2024-12-19,Buttercup,41.56
+2024-12-28,Valerie,86.82
+2024-01-18,Buttercup,10.46
+2024-05-19,Valerie,88.19
+2025-11-22,Vizzini,50.81
+2025-04-15,Vizzini,87.94
+2025-02-21,Count Rugen,43.78
+2024-12-17,Vizzini,12.42
+2024-04-01,Miracle Max,65.01
+2024-07-27,Buttercup,90.71
+2025-06-24,Buttercup,35.67
+2025-04-19,Valerie,74.48
+2024-05-19,Count Rugen,56.88
+2025-05-09,Inigo Montoya,51.11
+2024-09-26,Valerie,68.73
+2024-02-15,Miracle Max,35.53
+2025-07-15,Buttercup,74.22
+2024-01-29,Prince Humperdink,34.11
+2024-10-18,Buttercup,58.7
+2024-12-01,Fezzik,58.82
+2025-04-04,Buttercup,13.88
+2025-01-20,Fezzik,31.44
+2025-09-14,Buttercup,43.29
+2024-11-04,Valerie,92.84
+2025-10-30,Miracle Max,15.98
+2024-12-31,Vizzini,93.72
+2024-12-14,Prince Humperdink,50.47
+2025-10-29,Buttercup,17.5
+2024-12-02,Valerie,98.47
+2024-06-01,Fezzik,22.32
+2025-07-22,Inigo Montoya,63.81
+2025-11-29,Miracle Max,79.65
+2025-10-29,Miracle Max,23.65
+2025-04-07,Inigo Montoya,82.16
+2025-05-15,Valerie,34.45
+2024-08-18,Vizzini,38.39
+2025-11-21,Vizzini,45.14
+2025-04-28,Buttercup,44.57
+2025-12-12,Fezzik,65.57
+2025-04-28,Buttercup,30.46
+2025-05-26,Valerie,79.19
+2025-01-15,Miracle Max,25.43
+2025-02-17,Vizzini,44.59
+2025-07-28,Vizzini,29.13
+2025-09-23,Miracle Max,9.78
+2025-12-29,Valerie,7.28
+2025-12-11,Buttercup,22.22
+2025-04-24,Count Rugen,65.23
+2025-11-08,Miracle Max,28.84
+2024-01-25,Valerie,39.39
+2024-05-07,Miracle Max,32.26
+2025-03-09,Inigo Montoya,90.71
+2025-11-21,Vizzini,53.68
+2025-02-01,Count Rugen,91.37
+2024-07-13,Buttercup,86.73
+2024-12-06,Prince Humperdink,79.12
+2024-04-21,Vizzini,93.66
+2025-07-01,Vizzini,26.97
+2024-10-12,Fezzik,82.36
+2025-02-22,Prince Humperdink,72.86
+2024-07-26,Inigo Montoya,61.07
+2024-10-19,Count Rugen,12.14
+2025-08-02,Prince Humperdink,40.66
+2025-01-16,Valerie,50.78
+2025-04-13,Prince Humperdink,19.99
+2024-03-04,Inigo Montoya,75.6
+2025-11-17,Vizzini,17.5
+2024-01-07,Buttercup,23.63
+2024-11-05,Vizzini,85.29
+2025-01-01,Count Rugen,88.15
+2024-04-02,Valerie,33.46
+2025-04-19,Vizzini,65.45
+2024-08-31,Vizzini,86.76
+2025-02-25,Vizzini,44.0
+2025-07-24,Fezzik,51.41
+2024-11-26,Count Rugen,86.45
+2025-08-09,Prince Humperdink,95.34
+2025-03-05,Valerie,27.19
+2025-03-24,Vizzini,67.59
+2025-12-02,Buttercup,61.44
+2025-12-09,Miracle Max,21.67
+2024-12-03,Buttercup,75.27
+2024-03-07,Buttercup,57.55
+2024-12-31,Buttercup,60.89
+2025-09-30,Miracle Max,11.84
+2024-12-13,Buttercup,87.2
+2025-04-24,Count Rugen,14.13
+2024-05-09,Valerie,45.81
+2024-06-30,Inigo Montoya,48.22
+2025-08-19,Count Rugen,72.76
+2024-07-20,Count Rugen,15.49
+2024-04-18,Inigo Montoya,27.8
+2025-05-14,Valerie,68.37
+2024-01-29,Fezzik,12.5
+2025-11-26,Buttercup,85.61
+2024-12-27,Count Rugen,79.67
+2024-01-18,Count Rugen,76.9
+2025-05-13,Prince Humperdink,53.82
+2024-04-07,Valerie,58.8
+2025-01-19,Buttercup,44.24
+2025-08-24,Vizzini,91.5
+2025-05-12,Buttercup,86.8
+2025-09-16,Inigo Montoya,43.65
+2024-10-12,Prince Humperdink,30.8
+2024-07-26,Vizzini,40.67
+2025-12-06,Buttercup,64.61
+2024-08-14,Miracle Max,18.07
+2025-09-08,Fezzik,12.18
+2025-10-14,Inigo Montoya,51.56
+2024-09-12,Prince Humperdink,31.93
+2024-12-13,Valerie,72.2
+2024-01-03,Count Rugen,14.55
+2024-04-29,Buttercup,8.62
+2025-03-03,Buttercup,78.21
+2025-05-30,Inigo Montoya,91.15
+2024-01-26,Count Rugen,14.37
+2024-10-11,Valerie,19.66
+2025-05-08,Valerie,7.99
+2025-02-27,Fezzik,42.87
+2024-01-10,Inigo Montoya,6.02
+2025-11-03,Count Rugen,28.27
+2024-08-04,Miracle Max,42.99
+2024-10-08,Count Rugen,68.5
+2025-06-21,Valerie,71.57
+2025-04-11,Vizzini,86.59
+2024-01-25,Fezzik,60.83
+2024-10-05,Count Rugen,32.23
+2024-09-14,Miracle Max,93.65
+2025-01-25,Valerie,63.61
+2024-10-21,Vizzini,95.93
+2025-01-18,Prince Humperdink,45.27
+2024-07-28,Buttercup,82.58
+2025-08-08,Count Rugen,84.83
+2024-06-23,Buttercup,10.84
+2025-10-19,Valerie,61.48
+2024-01-05,Fezzik,33.31
+2024-12-05,Miracle Max,52.49
+2024-01-12,Prince Humperdink,32.48
+2024-10-13,Buttercup,11.98
+2024-04-18,Fezzik,21.02
+2025-08-05,Miracle Max,12.93
+2025-11-01,Valerie,6.59
+2024-03-11,Miracle Max,40.61
+2024-12-22,Count Rugen,83.5
+2025-10-15,Count Rugen,22.62
+2024-01-21,Miracle Max,38.18
+2024-12-05,Valerie,69.16
+2025-09-10,Fezzik,22.83
+2024-01-01,Buttercup,21.73
+2024-07-08,Buttercup,92.34
+2025-10-01,Miracle Max,65.01
+2025-12-20,Vizzini,41.49
+2025-03-07,Count Rugen,7.64
+2025-03-19,Inigo Montoya,52.26
+2025-11-21,Prince Humperdink,93.65
+2024-01-04,Prince Humperdink,82.21
+2025-09-11,Miracle Max,90.37
+2024-01-09,Count Rugen,51.36
+2024-08-11,Buttercup,75.03
+2025-12-01,Inigo Montoya,11.58
+2025-11-04,Count Rugen,67.3
+2024-06-15,Fezzik,67.04
+2025-06-01,Vizzini,98.82
+2024-06-28,Buttercup,87.1
+2024-08-09,Buttercup,48.09
+2024-02-13,Inigo Montoya,46.05
+2024-06-02,Buttercup,55.89
+2024-09-30,Inigo Montoya,17.67
+2024-10-01,Inigo Montoya,29.99
+2025-07-28,Miracle Max,3.86
+2024-06-26,Prince Humperdink,65.01
+2024-06-10,Prince Humperdink,89.31
+2025-02-01,Fezzik,58.78
+2025-06-16,Valerie,7.62
+2024-03-23,Valerie,35.23
+2025-11-09,Valerie,74.76
+2025-11-26,Buttercup,32.84
+2025-04-04,Miracle Max,70.29
+2024-11-21,Inigo Montoya,4.61
+2024-06-02,Valerie,38.76
+2024-02-19,Vizzini,75.22
+2024-09-09,Buttercup,39.49
+2024-12-22,Inigo Montoya,1.22
+2025-01-06,Miracle Max,97.58
+2024-04-19,Valerie,78.03
+2025-05-20,Miracle Max,2.12
+2024-04-06,Inigo Montoya,4.35
+2024-09-05,Miracle Max,68.72
+2024-12-13,Miracle Max,66.15
+2024-12-22,Count Rugen,69.75
+2025-03-16,Miracle Max,72.45
+2025-03-28,Inigo Montoya,86.13
+2025-10-22,Miracle Max,54.66
+2024-05-22,Fezzik,71.14
+2025-02-16,Prince Humperdink,80.29
+2025-05-17,Prince Humperdink,73.81
+2024-03-08,Vizzini,25.51
+2025-02-06,Count Rugen,23.07
+2025-01-13,Vizzini,93.46
+2025-03-10,Fezzik,99.93
+2025-06-11,Inigo Montoya,91.06
+2025-01-05,Fezzik,75.65
+2025-09-06,Buttercup,15.48
+2024-06-30,Valerie,21.18
+2025-11-11,Count Rugen,57.59
+2024-06-24,Fezzik,51.82
+2024-08-27,Prince Humperdink,17.01
+2024-08-18,Miracle Max,81.15
+2025-04-23,Prince Humperdink,15.94
+2024-01-20,Count Rugen,33.92
+2025-04-26,Count Rugen,68.27
+2024-04-18,Miracle Max,35.41
+2025-11-14,Buttercup,67.63
+2025-06-13,Buttercup,84.42
+2025-06-26,Valerie,62.31
+2025-01-02,Miracle Max,6.59
+2025-09-08,Vizzini,66.47
+2024-06-28,Prince Humperdink,97.11
+2024-04-24,Valerie,58.98
+2024-05-31,Fezzik,58.95
+2024-12-12,Fezzik,88.9
+2025-07-28,Miracle Max,88.8
+2024-04-24,Buttercup,98.72
+2025-03-04,Prince Humperdink,95.74
+2024-08-09,Buttercup,80.44
+2025-01-21,Buttercup,21.84
+2024-09-28,Miracle Max,96.32
+2024-08-30,Vizzini,43.34
+2025-11-22,Buttercup,57.01
+2025-03-27,Fezzik,72.6
+2025-11-25,Miracle Max,38.36
+2025-11-13,Count Rugen,90.92
+2024-05-22,Buttercup,17.27
+2024-06-01,Inigo Montoya,55.53
+2025-08-14,Inigo Montoya,80.13
+2025-09-08,Inigo Montoya,10.84
+2025-03-31,Valerie,19.81
+2025-12-20,Valerie,64.03
+2024-01-19,Vizzini,65.09
+2024-08-06,Inigo Montoya,12.11
+2024-09-27,Miracle Max,40.66
+2025-10-06,Miracle Max,95.85
+2024-08-29,Vizzini,60.25
+2024-09-19,Buttercup,23.43
+2025-08-08,Valerie,25.89
+2024-04-07,Miracle Max,78.48
+2025-08-29,Prince Humperdink,11.24
+2024-02-16,Prince Humperdink,18.21
+2024-08-12,Miracle Max,24.77
+2024-07-09,Vizzini,14.66
+2025-12-21,Buttercup,37.94
+2024-06-03,Buttercup,85.17
+2025-05-24,Fezzik,88.67
+2024-03-10,Inigo Montoya,83.06
+2025-10-20,Count Rugen,8.03
+2025-05-29,Miracle Max,87.09
+2025-10-02,Vizzini,65.33
+2025-06-08,Miracle Max,41.4
+2024-04-28,Buttercup,19.69
+2025-01-06,Vizzini,52.89
+2024-01-30,Valerie,82.52
+2024-01-15,Fezzik,92.63
+2025-08-18,Buttercup,7.26
+2024-09-14,Fezzik,92.77
+2024-09-25,Buttercup,5.49
+2025-03-18,Vizzini,41.51
+2025-02-06,Prince Humperdink,3.43
+2024-09-28,Fezzik,78.41
+2024-08-06,Miracle Max,51.58
+2025-12-19,Buttercup,1.34
+2024-11-17,Count Rugen,81.54
+2025-04-04,Inigo Montoya,35.32
+2025-07-04,Miracle Max,63.82
+2024-11-28,Buttercup,36.56
+2024-07-07,Buttercup,27.53
+2025-09-09,Valerie,34.64
+2024-08-22,Inigo Montoya,94.17
+2025-04-09,Miracle Max,23.74
+2025-01-12,Count Rugen,84.13
+2024-09-28,Count Rugen,2.03
+2025-04-19,Prince Humperdink,81.46
+2025-07-19,Buttercup,19.5
+2025-12-10,Prince Humperdink,80.31
+2024-04-12,Valerie,29.67
+2025-05-19,Fezzik,27.61
+2025-08-10,Inigo Montoya,45.19
+2024-12-18,Miracle Max,58.25
+2025-02-02,Fezzik,63.01
+2024-10-11,Vizzini,19.49
+2025-04-09,Fezzik,1.83
+2024-12-10,Inigo Montoya,55.36
+2025-06-25,Miracle Max,17.81
+2025-04-12,Inigo Montoya,90.47
+2025-06-02,Miracle Max,17.75
+2024-11-05,Count Rugen,86.72
+2024-03-11,Prince Humperdink,5.74
+2025-11-03,Valerie,92.73
+2025-01-21,Count Rugen,53.97
+2024-10-28,Vizzini,34.41
+2024-06-05,Count Rugen,16.28
+2025-10-16,Inigo Montoya,37.4
+2024-12-19,Valerie,91.33
+2025-11-05,Inigo Montoya,57.28
+2025-02-10,Vizzini,87.87
+2024-05-05,Prince Humperdink,37.5
+2025-01-26,Buttercup,41.67
+2024-07-06,Buttercup,28.6
+2025-11-27,Miracle Max,51.68
+2024-07-03,Vizzini,21.88
+2024-07-04,Fezzik,42.69
+2025-06-12,Vizzini,38.08
+2025-01-09,Fezzik,99.9
+2024-07-05,Count Rugen,60.43
+2024-01-03,Valerie,13.48
+2024-02-03,Vizzini,15.84
+2024-04-27,Vizzini,12.85
+2024-07-10,Fezzik,82.25
+2024-09-29,Prince Humperdink,7.33
+2024-07-17,Buttercup,13.25
+2024-01-21,Prince Humperdink,24.23
+2024-07-09,Count Rugen,17.69
+2024-08-12,Buttercup,38.97
+2024-03-23,Buttercup,98.45
+2025-08-31,Miracle Max,55.88
+2024-11-07,Count Rugen,72.19
+2024-01-21,Miracle Max,79.48
+2025-02-28,Fezzik,12.39
+2025-06-03,Buttercup,6.49
+2025-05-18,Vizzini,66.82
+2025-12-28,Vizzini,48.89
+2024-03-30,Vizzini,89.71
+2025-05-22,Valerie,76.27
+2025-09-12,Miracle Max,94.12
+2025-09-14,Vizzini,24.84
+2024-08-30,Count Rugen,88.73
+2025-12-04,Valerie,63.08
+2024-11-17,Fezzik,68.36
+2024-10-04,Buttercup,24.14
+2024-04-25,Vizzini,51.56
+2025-02-07,Fezzik,93.72
+2024-06-01,Buttercup,37.95
+2025-12-14,Fezzik,80.93
+2025-08-18,Miracle Max,49.87
+2024-07-13,Count Rugen,22.58
+2025-06-04,Valerie,18.11
+2025-02-18,Vizzini,41.07
+2025-04-12,Buttercup,45.74
+2025-04-09,Vizzini,6.37
+2025-10-16,Buttercup,89.55
+2024-08-14,Valerie,68.77
+2024-10-28,Miracle Max,91.06
+2025-01-05,Valerie,85.97
+2024-06-25,Fezzik,75.84
+2025-03-11,Miracle Max,57.62
+2024-07-18,Inigo Montoya,74.58
+2025-06-16,Vizzini,85.08
+2025-07-24,Prince Humperdink,12.7
+2024-06-30,Prince Humperdink,46.61
+2025-04-24,Count Rugen,89.29
+2024-09-15,Inigo Montoya,18.0
+2025-05-09,Inigo Montoya,5.97
+2025-09-23,Count Rugen,58.56
+2025-12-14,Buttercup,95.0
+2025-09-05,Valerie,37.91
+2024-06-19,Buttercup,30.65
+2025-06-25,Miracle Max,78.41
+2025-11-18,Fezzik,9.99
+2024-03-08,Vizzini,52.82
+2024-01-13,Inigo Montoya,48.45
+2025-07-01,Fezzik,60.67
+2025-04-14,Buttercup,25.72
+2025-03-16,Buttercup,69.9
+2024-06-08,Fezzik,32.38
+2025-01-31,Vizzini,50.67
+2024-09-25,Fezzik,77.76
+2025-10-13,Count Rugen,70.3
+2025-09-21,Buttercup,85.34
+2025-12-24,Buttercup,25.89
+2025-12-29,Count Rugen,16.42
+2025-06-01,Valerie,96.52
+2025-11-28,Inigo Montoya,33.11
+2025-07-13,Count Rugen,29.68
+2025-04-14,Inigo Montoya,28.46
+2024-08-15,Valerie,75.25
+2025-04-30,Count Rugen,4.79
+2024-10-29,Buttercup,77.72
+2024-04-09,Buttercup,83.53
+2025-03-03,Vizzini,33.55
+2025-11-11,Miracle Max,44.51
+2024-04-30,Fezzik,13.49
+2025-06-29,Buttercup,78.52
+2024-09-24,Vizzini,85.16
+2024-09-27,Prince Humperdink,88.43
+2025-11-29,Buttercup,50.18
+2024-01-12,Prince Humperdink,50.2
+2025-12-14,Fezzik,9.12
+2025-10-08,Inigo Montoya,25.49
+2024-07-13,Prince Humperdink,46.45
+2024-05-17,Buttercup,82.94
+2024-08-13,Count Rugen,11.44
+2025-09-23,Buttercup,50.3
+2024-11-10,Buttercup,6.47
+2025-10-03,Prince Humperdink,18.22
+2024-05-31,Buttercup,35.94
+2024-05-28,Count Rugen,2.72
+2024-07-28,Miracle Max,35.8
+2024-07-30,Count Rugen,65.1
+2025-08-31,Inigo Montoya,76.4
+2024-07-19,Count Rugen,45.36
+2025-10-29,Miracle Max,5.56
+2024-02-01,Buttercup,46.89
+2024-10-08,Inigo Montoya,92.16
+2025-03-23,Prince Humperdink,32.43
+2025-04-18,Vizzini,65.16
+2025-05-27,Fezzik,24.37
+2025-08-27,Count Rugen,3.46
+2025-12-17,Fezzik,91.04
+2024-07-15,Fezzik,63.33
+2024-11-09,Miracle Max,82.69
+2024-12-02,Prince Humperdink,93.23
+2024-10-31,Miracle Max,95.28
+2025-01-21,Buttercup,19.36
+2024-09-12,Prince Humperdink,77.08
+2025-07-24,Prince Humperdink,29.29
+2025-03-29,Fezzik,82.66
+2024-03-03,Valerie,74.44
+2024-02-03,Prince Humperdink,22.4
+2024-08-09,Valerie,30.28
+2025-03-28,Fezzik,56.34
+2024-05-27,Buttercup,1.31
+2025-11-16,Prince Humperdink,16.57
+2024-08-04,Buttercup,41.92
+2024-08-25,Inigo Montoya,59.97
+2025-04-14,Prince Humperdink,88.72
+2024-03-18,Prince Humperdink,72.26
+2025-11-10,Inigo Montoya,1.14
+2024-07-12,Inigo Montoya,43.49
+2024-01-26,Prince Humperdink,77.97
+2024-01-09,Prince Humperdink,79.86
+2025-11-16,Miracle Max,63.36
+2024-01-23,Fezzik,89.74
+2025-03-28,Buttercup,5.26
+2025-09-12,Count Rugen,6.25
+2025-03-20,Valerie,89.17
+2024-05-15,Miracle Max,56.18
+2024-04-30,Buttercup,95.81
+2024-01-14,Fezzik,82.5
+2024-11-10,Buttercup,45.79
+2024-01-14,Vizzini,90.34
+2024-02-20,Prince Humperdink,90.1
+2025-08-15,Count Rugen,95.28
+2025-04-22,Buttercup,38.0
+2025-07-14,Count Rugen,2.24
+2024-02-18,Fezzik,75.89
+2024-08-14,Miracle Max,2.17
+2025-09-03,Count Rugen,65.67
+2024-11-02,Prince Humperdink,30.03
+2024-12-03,Fezzik,95.78
+2024-05-15,Inigo Montoya,82.3
+2024-11-13,Inigo Montoya,92.03
+2024-10-07,Fezzik,78.96
+2025-12-17,Prince Humperdink,38.69
+2025-06-09,Prince Humperdink,32.33
+2024-02-17,Vizzini,60.75
+2025-08-09,Prince Humperdink,69.65
+2024-07-06,Prince Humperdink,12.25
+2025-11-04,Vizzini,1.77
+2025-11-30,Valerie,40.69
+2024-05-08,Count Rugen,94.85
+2024-03-03,Valerie,78.66
+2025-04-29,Count Rugen,2.61
+2025-07-19,Buttercup,59.13
+2024-09-05,Buttercup,50.12
+2024-12-11,Count Rugen,12.42
+2025-04-23,Inigo Montoya,20.48
+2024-02-20,Count Rugen,38.72
+2024-09-27,Count Rugen,4.68
+2025-10-17,Miracle Max,40.91
+2024-09-01,Inigo Montoya,95.78
+2025-05-16,Inigo Montoya,5.21
+2024-03-11,Prince Humperdink,38.81
+2025-07-28,Fezzik,51.28
+2024-08-01,Prince Humperdink,78.39
+2025-04-30,Miracle Max,57.96
+2025-12-27,Fezzik,12.7
+2024-02-11,Vizzini,50.89
+2025-10-01,Valerie,9.2
+2024-04-21,Count Rugen,35.67
+2024-06-13,Vizzini,85.57
+2025-10-17,Buttercup,37.37
+2025-01-18,Miracle Max,71.82
+2025-12-16,Prince Humperdink,57.3
+2025-11-11,Miracle Max,95.71
+2024-08-22,Miracle Max,13.17

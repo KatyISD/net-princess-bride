@@ -1,0 +1,42 @@
+{
+    "ingredients": [
+        {
+            "name": "thistle root",
+            "purpose": "vitality"
+        },
+        {
+            "name": "bat wing dust",
+            "purpose": "adds a touch of magic"
+        },
+        {
+            "name": "phoenix feather",
+            "purpose": "rare & powerful"
+        },
+        {
+            "name": "ground mandrake",
+            "purpose": "for reviving the mostly dead"
+        },
+        {
+            "name": "marshmallow fluff",
+            "purpose": "for texture"
+        },
+        {
+            "name": "chocolate coating",
+            "purpose": "to help it go down easier"
+        },
+        {
+            "name": "true love extract",
+            "purpose": "the most powerful ingredient of all"
+        }
+    ],
+    "tools": [
+        {
+            "name": "mortar and pestle",
+            "purpose": "mixing stuff"
+        },
+        {
+            "name": "scrolls",
+            "purpose": "record old recipes"
+        }
+    ]
+}
