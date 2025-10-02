@@ -16,7 +16,7 @@ RUN addgroup -S princessbride && adduser -S princessbride -G princessbride
 
 
 # Set the user for subsequent commands
-USER princess_bride
+USER princessbride
 
 # Set the working directory (optional, but good practice)
 WORKDIR /home/$USERNAME
